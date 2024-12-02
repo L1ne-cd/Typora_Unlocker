@@ -35,19 +35,19 @@ Typora_Unlocker 支持的版本：| 1.0.0 - 1.9.5 |
 
 Typora 官网原版安装包：| [Linux](https://typora.io/#linux) | [MacOS](https://download.typora.io/mac/Typora.dmg) | [Windows 64位](https://download.typora.io/windows/typora-setup-x64.exe) | [历史版本](https://typora.io/releases/all) | 
 
-Typora 中国官网原版安装包：| [Linux](https://typora.io/#linux) | [MacOS](https://download2.typoraio.cn/mac/Typora.dmg) | [Windows 64位](https://download2.typoraio.cn/windows/typora-setup-x64.exe) | [历史版本](https://typoraio.cn/releases/all) | 
+Typora 中国官网原版安装包：| [Linux](https://typoraio.cn/#linux) | [MacOS](https://download2.typoraio.cn/mac/Typora.dmg) | [Windows 64位](https://download2.typoraio.cn/windows/typora-setup-x64.exe) | [历史版本](https://typoraio.cn/releases/all) | 
 
 ---
 
 # 激活说明
 
-### 如遇到激活或更新错误，请打开左上角 文件 → 偏好设置 → 通用 → Typora 服务使用国内服务器，然后重启 Typora。
+### 如遇到激活或更新错误，请打开左上角 文件→偏好设置→通用→Typora服务使用国内服务器，然后重启Typora。
 
 ---
 
-# 这里温馨提醒一下：
+# 注意事项
 
-### 1.9.4升级1.9.5需要先卸载1.9.4版本后，重新安装1.9.5版本才可以进行后续激活步骤。
+### 旧版本Typora升级最新版本Typora需要先卸载旧版本Typora后，重新安装最新版本Typora才可以进行后续激活步骤。
 
 ---
 
