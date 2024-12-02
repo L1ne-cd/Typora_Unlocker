@@ -33,6 +33,18 @@ Typora_Unlocker 支持的版本：| 1.0.0 - 1.9.5 |
 
 ---
 
+Typora 官网原版安装包：| [Linux](https://typora.io/#linux) | [MacOS](https://download.typora.io/mac/Typora.dmg) | [Windows 64位](https://download.typora.io/windows/typora-setup-x64.exe) | [历史版本](https://typora.io/releases/all) | 
+
+Typora 中国官网原版安装包：| [Linux](https://typora.io/#linux) | [MacOS](https://download2.typoraio.cn/mac/Typora.dmg) | [Windows 64位](https://download2.typoraio.cn/windows/typora-setup-x64.exe) | [历史版本](https://typoraio.cn/releases/all) | 
+
+---
+
+# 激活说明
+
+### 如遇到激活或更新错误，请打开左上角 文件 → 偏好设置 → 通用 → Typora 服务使用国内服务器，然后重启 Typora。
+
+---
+
 # 这里温馨提醒一下：
 
 ### 1.9.4升级1.9.5需要先卸载1.9.4版本后，重新安装1.9.5版本才可以进行后续激活步骤。
@@ -60,7 +72,7 @@ Typora_Unlocker 支持的版本：| 1.0.0 - 1.9.5 |
 输入 node_inject.exe 按 Enter键 即可自动处理，然后输入 license-gen.exe 按 Enter键 即可得到序列号。
 ![](https://raw.gitmirror.com/743859910/Typora_Unlocker/master/img/Typora_6.webp)
 
-鼠标移动至序列号上双击鼠标左键，然后同时按住 Ctrl+Shift+C 键即可复制序列号。
+鼠标移动至序列号上双击鼠标左键，然后按一下鼠标右键或同时按住 Ctrl+Shift+C 键即可复制序列号。
 ![](https://raw.gitmirror.com/743859910/Typora_Unlocker/master/img/Typora_7.webp)
 
 打开 Typora 点击：输入序列号
